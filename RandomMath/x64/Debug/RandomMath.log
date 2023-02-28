@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Programming\C++\Personal\RandomMath\RandomMath\Source.cpp(50,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  RandomMath.vcxproj -> D:\Programming\C++\Personal\RandomMath\x64\Debug\RandomMath.exe
